@@ -5,13 +5,15 @@ Data Analyst | Python Enthusiast | Lifelong Learner
 ---------------------------------------------------
 
 
-👋 Hi there! I’m Ali, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
+👋 Hi there! I’m Ben, an aspiring data analyst with a passion for unravelling insights from complex datasets. My journey involves turning raw data into actionable knowledge, and I’m excited to share my projects and experiences. This GitHub repository showcases my projects across various tools and technologies. Feel free to explore my projects and reach out if you have any questions or collaboration ideas! --please add more info with your personal infromation --
 
 ## About Me 🎓 
 
+I believe I bring a unique blend of communication skills, teamwork, and a passion for continuous learning. With 8 years of experience as an English language teacher, I’ve honed my ability to communicate complex ideas clearly, which will be invaluable when presenting data findings to stakeholders. 
 
--- please update this part with your pitch --
-I hold a degree in Computer Science with a focus on data analytics. 
+Though naturally extroverted, I’m also an avid learner, constantly expanding my knowledge. Outside of work, I practice salsa dancing, jiu jitsu, and have taught myself both the guitar and the ukulele. My latest passion is data analysis, where I’ve developed a strong interest in SQL and data visualization tools. 
+
+I believe the beauty of data analysis lies in uncovering the truth, and I’m excited to contribute to your company’s success by discovering the insights that will help achieve its goals.  
 
 📊 Proficient in Python, SQL, and data visualization tools (Matplotlib, Seaborn). 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
